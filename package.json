@@ -1,0 +1,28 @@
+{
+  "name": "travel-agency-landing-page",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dogukandogudd/travel-agency-landing-page.git"
+  },
+  "keywords": [
+    "travel",
+    "agency",
+    "desing2code",
+    "tailwind"
+  ],
+  "author": "Doğukan Doğu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dogukandogudd/travel-agency-landing-page/issues"
+  },
+  "homepage": "https://github.com/dogukandogudd/travel-agency-landing-page#readme",
+  "devDependencies": {
+    "tailwindcss": "^3.2.7"
+  }
+}
